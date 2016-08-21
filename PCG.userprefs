@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DestroyableObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DayNightCycle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Loader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BoardManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ActivateTextAtLine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextBoxManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MovingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DungeonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="170" Column="43" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WeaponComponents.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Chest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sprites/Where am I.txt" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Follow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Item.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Wall.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Lake.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Camera2DFollow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
